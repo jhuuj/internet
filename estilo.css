@@ -1,8 +1,13 @@
-body {background-color:gray;}
-h1 { text-align:left; 
-     color:blue;
-    }
+body {background-color: #66CDAA;
+background-image: url("imagem.jpg");
 
-h2 {text-align: right; color: yellow;} 
-h3 {text-align: center; color: white;} 
-h4 {text-align: justify; color: black background-color:yellow;} 
+}
+h1 { text-align: center; color:#556B2F;}
+h2 {text-align: left; color: pink; font-family: verdana;} 
+h3 {text-align: left; color: white;font-family: arial;} 
+h4 {text-align: justify; color: black; font-style: italic;} 
+h5 { text-align: justify; color:#808000; font-style : normal;}
+h6 { text-align: justify; color:#B8860B; font-size:pt; 
+
+}
+
