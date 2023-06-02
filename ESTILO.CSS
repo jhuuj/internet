@@ -1,0 +1,22 @@
+.cabecalho { 
+        background-color:aquamarine;
+        width:auto;
+        padding:30px;
+        color:rgb(2, 5, 8);
+        font-size:20px;
+            }
+            
+.conteudo{ 
+    background-color:;
+    width:auto;
+    padding:300px;
+    color:rgb(17, 21, 26);
+    font-size:20px;
+         }                
+         .rodape {
+            background-color:rgb(42, 73, 73);
+            width:auto;
+            padding:30px;
+            color:rgb(10, 6, 12);
+            font-size:20px;
+                 }
