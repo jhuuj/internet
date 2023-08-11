@@ -1,0 +1,28 @@
+html{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: darksalmon;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+input{
+     background-color: burlywood;
+     color: beige;
+}
+select{
+    background-color: burlywood;
+    color: beige;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    width: 350px;
+    margin: 80px;
+    border: 2px solid rgb(rgb(255, 204, 0), rgb(128, 111, 0), rgb(255, 221, 0));
+}
